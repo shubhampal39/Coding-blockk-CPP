@@ -5,7 +5,8 @@ int main()
 {
 	int n,a;
 	cin>>n>>a;
-	int ans=1; 
+	int ans=1;
+	 
 	while(n>0)
 	{
 
