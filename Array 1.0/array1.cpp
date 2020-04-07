@@ -3,6 +3,8 @@ using namespace std;
 
 int main()
 {
+    cout<<3/2;
+
 	int a[10]={1,2,3};
 	/*for (int i = 0; i < 9; ++i)
 	{
